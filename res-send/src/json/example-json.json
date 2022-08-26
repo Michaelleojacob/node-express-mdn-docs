@@ -1,0 +1,14 @@
+{
+  "migs": {
+    "name": "migs",
+    "index": 1
+  },
+  "josh": {
+    "name": "josh",
+    "index": 2
+  },
+  "foam": {
+    "name": "foam",
+    "index": 3
+  }
+}
